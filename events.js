@@ -45,3 +45,5 @@ iki.src="./img/iki.webp"
 
 
 }
+
+// aynı etikete hem click hem dblclick verirsek istenmeyen sonuçlar olabilir
