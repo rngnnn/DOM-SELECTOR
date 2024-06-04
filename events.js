@@ -10,6 +10,7 @@ const badi= document.querySelector("#badi")
 js.onmouseover=()=>{
 
 badi.style.background="pink"
+js.style.color="red"
 
 
 
