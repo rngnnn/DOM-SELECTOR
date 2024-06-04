@@ -46,4 +46,14 @@ iki.src="./img/iki.webp"
 
 }
 
-// aynı etikete hem click hem dblclick verirsek istenmeyen sonuçlar olabilir
+/// iki.ondblclick = () => {
+//   bir.src = "./img/js_logo.png";
+//   iki.src = "./img/logo2.png";
+// };
+// iki.onclick = () => {
+//   iki.src = "./img/iki.webp";
+// };
+
+
+
+// aynı etikete hem click hem dblclick verirsek istenmeyen sonuçlar olabilir, yorumdaki gibi yazarsak sorun çıkmaz
